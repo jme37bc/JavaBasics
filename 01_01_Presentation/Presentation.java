@@ -13,7 +13,7 @@ public class Presentation {
 		// Concateno els strings no variables i les variables usant '+', formant així una frase.
 		// Important posar espais i punts on s'escau, ja que no és fa automàticament.
 		System.out.println("I am " + age + " y/o.");
-		System.out.println("My adress is " + address + ".");
+		System.out.println("My address is " + address + ".");
 		System.out.println("My height is " + height + " meters.");
  
     }
