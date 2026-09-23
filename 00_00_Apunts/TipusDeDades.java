@@ -41,6 +41,10 @@ public class TipusDeDades {
 		String text;
 		text = "Variables";
 		System.out.println(text); // Imprimeix el text "Variables" per pantalla
+        
+        // Nota post-entrega:
+        
+        // Es pot declarar i inicialitzar a la vegada.
 		
     }
 }
