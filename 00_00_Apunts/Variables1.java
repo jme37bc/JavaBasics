@@ -16,6 +16,10 @@ public class Variables1{
 		
 		double sumaAlumes = alumnesAula + alumnesAula;
 		System.out.println("Comprovació: " + sumaAlumes);
+		System.out.println(0.1 + 0.1 + 0.1); // ERROR PRECISSIÓ
+		
+		int enterByte = Integer.MAX_VALUE;		
+		System.out.println("enterByte + 1: " + (enterByte + 1));
 		
 		int esParell = 4%2;
 		System.out.println("És parell: " + esParell);
